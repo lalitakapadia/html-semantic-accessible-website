@@ -7,4 +7,9 @@ This includes 02-challenge for html optimization
 3. restructured html hierarchy like the html, head, header, body, footer.
 4. provided headings in sequence order 
 5. provided alt attribute with value describing the image
-6. refactored css to replace div selector with section selector
+6. refactored css to replace div selector with section selector. 
+7. replaced non semantic element <span> with semantic element <strong>.
+8. In CSS removed all deplicate styles to consolidate into one style.
+
+# website is published at github pages
+URL https://lalitakapadia.github.io/html-semantic-accessible-website/
