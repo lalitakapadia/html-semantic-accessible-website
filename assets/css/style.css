@@ -87,18 +87,21 @@ p {
 }
 
 .benefit-item {
+    /*Consolidated benefits style*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
 .benefit-item h3 {
+    /*Consolidated benefits style for header*/
     margin-bottom: 10px;
     text-align: center;
 }
 
 
 .benefit-item img {
+    /*Consolidated benefits style for image*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -106,6 +109,7 @@ p {
 
 
 .horiseon-service{
+    /*Consolidated services style*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -116,12 +120,14 @@ p {
 
 
 .horiseon-service img{
+    /*Consolidated services style for image*/
     max-height: 200px;
 }
 
 
 
 .horiseon-service h2{
+    /*Consolidated services style for h2 header*/
     margin-bottom: 20px;
     font-size: 36px;
 }
